@@ -1,4 +1,8 @@
 ### IntelliJ IDEA ###
+.idea
+gradle
+.gradle
+build
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
